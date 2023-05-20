@@ -1,2 +1,2 @@
 # emoji-dictionary
-https://i59bli.csb.app/
+You can check it out here: https://i59bli.csb.app/
