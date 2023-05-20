@@ -1,2 +1,2 @@
 # emoji-dictionary
-Created with CodeSandbox
+https://i59bli.csb.app/
